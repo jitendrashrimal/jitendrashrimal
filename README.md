@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi👋 ! I'm Jitendra Shrimal, a passionate data analyst with a fresh perspective and a love for turning raw data into actionable insights. 
+📊 As a Data Analyst, I’ve honed my skills in data wrangling, visualization, and statistical analysis. Whether it’s crunching numbers in Excel, creating interactive dashboards in Power BI, or writing SQL queries, I’m all about making data tell its story.
+
+You’ll Find in Repository:
+Data Projects: Explore my data analysis projects, where I’ve explored everything from sales trends to customer segmentation.
+Code Snippets: Need a quick SQL query or a DAX function? I’ve got you covered!
+Visualizations: Check out my eye-catching charts and graphs—I believe data should be both informative and beautiful.
+
 
 <!--
 **jitendrashrimal/jitendrashrimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
