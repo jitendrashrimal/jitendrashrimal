@@ -6,13 +6,13 @@ You’ll Find in Repository: </br>
 - Code Snippets: Need a quick SQL query or a DAX function? I’ve got you covered! </br>
 - Visualizations: Check out my eye-catching charts and graphs—I believe data should be both informative and beautiful.
 
-TECHNICAL SKILLS 
-•	Analytical Tools: Power BI, Microsoft Excel
-•	Software’s: Microsoft Excel, MySQL Workbench, Jupyter Notebook, Power BI Desktop, Visual Studio Code
-•	Programming Languages: SQL, PYTHON, HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, C Language
+TECHNICAL SKILLS </br>
+•	Analytical Tools: Power BI, Microsoft Excel </br>
+•	Software’s: Microsoft Excel, MySQL Workbench, Jupyter Notebook, Power BI Desktop, Visual Studio Code </br>
+•	Programming Languages: SQL, PYTHON, HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, C Language </br>
 •	Database: MySQL, PostgreSQL, SQLite, Microsoft SQL Server 
 
-SKILLS 
+SKILLS </br>
 •	POWER BI (Business Intelligence): data connectors, data cleaning & transformation, data modelling, DAX (Data Analysis Expressions) function, data visualization, KPI (Key Performance Indicator) cards, parameters, cumulative sales, moving average, growth by yearly, monthly, quarterly. 
 
 •	ADVANCED EXCEL: functions, formatting, VLOOKUP, XLOOKUP, index match, filter & sort, remove duplicate, fill, data manipulation, data analysis. Understanding data, data cleaning & transformation - Power Query Editor, data modelling – Power Pivot (Diagram View), summarize -Pivot Tables, dashboard – Charts, Slicers, Measures. 
