@@ -6,6 +6,21 @@ You’ll Find in Repository: </br>
 - Code Snippets: Need a quick SQL query or a DAX function? I’ve got you covered! </br>
 - Visualizations: Check out my eye-catching charts and graphs—I believe data should be both informative and beautiful.
 
+TECHNICAL SKILLS 
+•	Analytical Tools: Power BI, Microsoft Excel
+•	Software’s: Microsoft Excel, MySQL Workbench, Jupyter Notebook, Power BI Desktop, Visual Studio Code
+•	Programming Languages: SQL, PYTHON, HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, C Language
+•	Database: MySQL, PostgreSQL, SQLite, Microsoft SQL Server 
+
+SKILLS 
+•	POWER BI (Business Intelligence): data connectors, data cleaning & transformation, data modelling, DAX (Data Analysis Expressions) function, data visualization, KPI (Key Performance Indicator) cards, parameters, cumulative sales, moving average, growth by yearly, monthly, quarterly. 
+
+•	ADVANCED EXCEL: functions, formatting, VLOOKUP, XLOOKUP, index match, filter & sort, remove duplicate, fill, data manipulation, data analysis. Understanding data, data cleaning & transformation - Power Query Editor, data modelling – Power Pivot (Diagram View), summarize -Pivot Tables, dashboard – Charts, Slicers, Measures. 
+
+•	PYTHON: Data Structures, Operators, Statements, Loops, Method and Function, OOPS, Modules & Packages, Built-in-Functions, Decorators, Generators, Advanced Python Modules; Web Scraping; Working with Image, PDFs & Spreadsheets; Emailing with Python. Python Libraries - Pandas, NumPy, Matplotlib, Seaborn. 
+
+•	SQL (Structured Query Language): SQL queries; extract, transform & analyse data; operators, Keywords, functions, where clause, group by, having, case operator, joins, subqueries, window functions, common table expressions (CTEs), data aggregation, data function, operations.
+
 
 <!--
 **jitendrashrimal/jitendrashrimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
